@@ -1,0 +1,13 @@
+# cs360project
+Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address? My app was designed to help people manage their weight. 
+The specific user needs are to help users maintain, lose or gain weight in a specified amount of time through micro caloric intake calculations.
+What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful? 
+Ideally, there are 3 screens, a login/signup page to ensure your informations is secure, a current weight page that shows progress over period of time, and a page to make weight goal changes and apply them. My UI designs kept users in mind by being easy to navigate and offering a graphical display to show progress or regression on the users part. My designs are successful as it is easier for users to read and understand when there are visual cues guiding them.
+How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
+My approach was to first look at successful weight loss apps and draw out exactly what I wanted on paper, then working to design it in Android Studio. I didn't really have a technique, just trial and error. In the future I will maintain this approach as it is easier to visualize the finished product first, then reverse engineer that vision.
+How did you test to ensure your code was functional? Why is this process important and what did it reveal?
+In order to test the code I did a lot of building and de bugging, dozens of times. This process is critical because it shows how the product is coming along and it alerts you to issues (bugs) in your code so that you can correct them before releasing the software. For me, this process revealed that I still need to work on my code as it is still not bug free, however, my last build had only 1 bug as opposed to the over 200 bugs found on my first build.
+Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
+The most difficult part for me was the debugging process. Often I would take notes on what worked well and what was causing issues then make appropriate changes to reduce/eliminate issues (bugs) without having to start from scratch.
+In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+I was really successful with the design aspect of the mobile app. By understanding what a user would reasonably expect, I sought to map out a user friendly app that was both useful and simple. 
